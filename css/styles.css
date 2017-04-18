@@ -33,3 +33,10 @@ img {
   height: 700px;
   width: 1200px;
 }
+a {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #76ced0;
+  font-size: 22pt;
+  text-decoration: none;
+}
