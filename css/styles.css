@@ -1,0 +1,35 @@
+h1 {
+  font-family: fantasy;
+  font-weight: normal;
+  font-size: 68pt;
+  text-align: center;
+  color: #76ced0
+}
+h2 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 48pt;
+  text-align: center;
+  color: #76ced0
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20pt;
+  font-weight: normal;
+  color: #6f7373;
+}
+
+ul {
+  font-family: sans-serif;
+  font-size: 20pt;
+  font-weight: normal;
+  color: #6f7373;
+}
+
+img {
+  display: block;
+  margin: auto;
+  height: 700px;
+  width: 1200px;
+}
